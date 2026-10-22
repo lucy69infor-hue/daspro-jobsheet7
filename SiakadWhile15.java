@@ -10,7 +10,7 @@ public class SiakadWhile15 {
         jml = scanner.nextInt();
 
         int i = 0;
-        while (i <= jml){
+        while (i < jml){
         System.out.println(" Masukkan Nilai Mahasiswa ke- " + (i+1) + ": ");
         nilai = scanner.nextDouble();
         if (nilai < 0 || nilai > 100){
