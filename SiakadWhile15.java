@@ -11,7 +11,7 @@ public class SiakadWhile15 {
 
         int i = 0;
         while (i <= jml){
-        System.out.println(" Masukkan Nilai Mahasiswa ke- " + i+ ": ");
+        System.out.println(" Masukkan Nilai Mahasiswa ke- " + i + ": ");
         nilai = scanner.nextDouble();
         if (nilai < 0 || nilai > 100){
             System.out.println("Nilai tidak valid. silahkan masukkan nilai yang valid");
