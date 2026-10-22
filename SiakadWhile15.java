@@ -9,7 +9,7 @@ public class SiakadWhile15 {
         System.out.println("Masukkan Jumlah Mahasiswa: ");
         jml = scanner.nextInt();
 
-        int i = 1;
+        int i = 0;
         while (i <= jml){
         System.out.println(" Masukkan Nilai Mahasiswa ke- " + i+ ": ");
         nilai = scanner.nextDouble();
