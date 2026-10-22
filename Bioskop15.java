@@ -9,7 +9,7 @@ public class Bioskop15 {
         System.out.println("Masukan Jumlah Pelanggan : ");
         jml = sc.nextInt();
           while (i < jml ){
-            System.out.println("Pelanggan ke- " + (i+0));
+            System.out.println("Pelanggan ke- " + (i+1));
             System.out.println("Masukkan jumlah tiket : ");
             tiket = sc.nextInt();
 
