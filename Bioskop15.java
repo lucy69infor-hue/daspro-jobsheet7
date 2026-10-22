@@ -40,7 +40,7 @@ public class Bioskop15 {
             
             
         }
-            System.out.println("\n=== LAPORAN PENJUALAN HARIAN ===");
+            System.out.println("=== LAPORAN PENJUALAN HARIAN ===");
             System.out.println("Total tiket terjual : " + totalTiket);
             System.out.println("Total penjualan     : Rp" + totalPenjualan);
             sc.close();
